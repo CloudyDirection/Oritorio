@@ -1,0 +1,7 @@
+{
+  "_comment": "SprawlCrafting client settings — true \u003d enabled. Also editable in-game from the mod menu.",
+  "sound_effects": true,
+  "jei_integration": true,
+  "rei_integration": true,
+  "needs_system": true
+}

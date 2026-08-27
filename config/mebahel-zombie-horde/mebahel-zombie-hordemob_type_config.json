@@ -1,0 +1,27 @@
+{
+  "hordeCompositions": [
+    {
+      "weight": 1,
+      "dimensions": [
+        "minecraft:overworld"
+      ],
+      "mobTypes": [
+        {
+          "id": "minecraft:zombie",
+          "weight": 30,
+          "spawnWithWeaponProbability": 0.15,
+          "weapons": [
+            {
+              "itemId": "minecraft:iron_sword",
+              "weight": 6
+            },
+            {
+              "itemId": "minecraft:stone_sword",
+              "weight": 4
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

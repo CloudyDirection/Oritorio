@@ -1,0 +1,132 @@
+{
+  "hordeCompositions": [
+    {
+      "weight": 1,
+      "dimensions": [
+        "minecraft:overworld"
+      ],
+      "mobTypes": [
+        {
+          "id": "minecraft:zombie",
+          "weight": 40,
+          "spawnWithWeaponProbability": 0.8,
+          "weapons": [
+            {
+              "itemId": "minecraft:iron_sword",
+              "weight": 5
+            },
+            {
+              "itemId": "minecraft:stone_sword",
+              "weight": 3
+            },
+            {
+              "itemId": "minecraft:wooden_sword",
+              "weight": 2
+            }
+          ]
+        },
+        {
+          "id": "minecraft:skeleton",
+          "weight": 30,
+          "spawnWithWeaponProbability": 1.0,
+          "weapons": [
+            {
+              "itemId": "minecraft:bow",
+              "weight": 3
+            },
+            {
+              "itemId": "minecraft:iron_axe",
+              "weight": 2
+            },
+            {
+              "itemId": "minecraft:stone_axe",
+              "weight": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weight": 1,
+      "dimensions": [
+        "minecraft:the_nether"
+      ],
+      "mobTypes": [
+        {
+          "id": "minecraft:pillager",
+          "weight": 35,
+          "spawnWithWeaponProbability": 1.0,
+          "weapons": [
+            {
+              "itemId": "minecraft:crossbow",
+              "weight": 1
+            }
+          ]
+        },
+        {
+          "id": "minecraft:vindicator",
+          "weight": 25,
+          "spawnWithWeaponProbability": 1.0,
+          "weapons": [
+            {
+              "itemId": "minecraft:iron_axe",
+              "weight": 1
+            }
+          ]
+        },
+        {
+          "id": "minecraft:evoker",
+          "weight": 15,
+          "spawnWithWeaponProbability": 0.0,
+          "weapons": []
+        },
+        {
+          "id": "minecraft:ravager",
+          "weight": 5,
+          "spawnWithWeaponProbability": 0.0,
+          "weapons": []
+        }
+      ]
+    },
+    {
+      "weight": 2,
+      "dimensions": [
+        "minecraft:the_end"
+      ],
+      "mobTypes": [
+        {
+          "id": "minecraft:wither_skeleton",
+          "weight": 40,
+          "spawnWithWeaponProbability": 0.7,
+          "weapons": [
+            {
+              "itemId": "minecraft:stone_sword",
+              "weight": 4
+            },
+            {
+              "itemId": "minecraft:iron_axe",
+              "weight": 3
+            }
+          ]
+        },
+        {
+          "id": "minecraft:stray",
+          "weight": 20,
+          "spawnWithWeaponProbability": 0.5,
+          "weapons": [
+            {
+              "itemId": "minecraft:bow",
+              "weight": 1
+            }
+          ]
+        },
+        {
+          "id": "minecraft:blaze",
+          "weight": 15,
+          "spawnWithWeaponProbability": 0.0,
+          "weapons": []
+        }
+      ]
+    }
+  ]
+}

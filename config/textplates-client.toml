@@ -1,0 +1,23 @@
+#Alpha transparency of the grid overlay lines (0.0 - 1.0)
+# Default: 0.5
+# Range: 0.0 ~ 1.0
+gridLineAlpha = 0.5
+#Whether to show typing progress in the action bar
+showActionBarProgress = true
+#Background rendering mode: NONE (no background), SOLID_COLOR (configurable RGB), TEXTURE (configurable texture)
+#Allowed Values: NONE, SOLID_COLOR, TEXTURE
+backgroundMode = "NONE"
+#Red component of solid color background (0-255)
+# Default: 255
+# Range: 0 ~ 255
+backgroundColorR = 255
+#Green component of solid color background (0-255)
+# Default: 255
+# Range: 0 ~ 255
+backgroundColorG = 255
+#Blue component of solid color background (0-255)
+# Default: 255
+# Range: 0 ~ 255
+backgroundColorB = 255
+#Texture path for texture background mode (e.g., 'minecraft:block/white_concrete')
+backgroundTexture = "minecraft:block/white_concrete"
