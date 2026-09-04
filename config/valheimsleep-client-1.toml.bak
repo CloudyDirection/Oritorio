@@ -1,0 +1,11 @@
+[ethereal_dreamscape]
+	#Toggles the entire custom dream screen feature.
+	enableDreamScreen = true
+	#Toggles the rendering of dream particles (for performance).
+	enableParticles = true
+	#Hides vanilla HUD and other mods' overlays during the dream.
+	hideOtherHudElements = true
+	#Probability of having a dream when sleeping (0.0 = never, 1.0 = always).
+	# Default: 0.75
+	# Range: 0.0 ~ 1.0
+	dreamProbability = 0.75

@@ -9,3 +9,8 @@
 	# Default: 0.75
 	# Range: 0.0 ~ 1.0
 	dreamProbability = 0.75
+	#Mode for picking dreams: RANDOM, SEQUENTIAL (by order), or PROGRESSION (by night/conditions).
+	#Allowed Values: RANDOM, SEQUENTIAL, PROGRESSION
+	selectionMode = "RANDOM"
+	#Whether to loop back to the first dream when the end of the list is reached in SEQUENTIAL mode.
+	sequentialLoop = true

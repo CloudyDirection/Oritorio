@@ -1,0 +1,604 @@
+{
+  "dreams": [
+    {
+      "en_us": "You stand at the edge of an ancient forest, where trees taller than mountains pierce the clouds. A gentle wind carries the scent of pine and distant rain. As you step forward, the forest seems to welcome you, its branches parting like curtains to reveal a path of golden light.",
+      "ru_ru": "Вы стоите на краю древнего леса, где деревья выше гор пронзают облака. Лёгкий ветер несёт запах сосны и далёкого дождя. Когда вы делаете шаг вперёд, лес, кажется, приветствует вас — его ветви расходятся как шторы, открывая путь золотого света."
+    },
+    {
+      "en_us": "High upon a mountain peak, you watch clouds drift below like an endless ocean. The air is thin and cold, but you feel warmth from within. A eagle circles overhead, its cry echoing across valleys that stretch to the horizon. You realize you are not alone in this vast wilderness.",
+      "ru_ru": "Высоко на вершине горы вы смотрите, как облака дрейфуют внизу как бесконечный океан. Воздух разрежён и холоден, но вы чувствуете тепло изнутри. Орёл кружит над вами, его крик эхом разносится по долинам, простирающимся до горизонта. Вы понимаете, что не одиноки в этой безграничной пустыне."
+    },
+    {
+      "en_us": "In a hall of mirrors, you see infinite reflections of yourself. Each version wears different armor, holds different weapons, bears different scars. They all turn to face you simultaneously, and you understand: these are the lives you could have lived, the paths not taken.",
+      "ru_ru": "В зале зеркал вы видите бесконечные отражения себя. Каждая версия носит другую броню, держит другое оружие, несёт другие шрамы. Они все поворачиваются к вам одновременно, и вы понимаете: это жизни, которые вы могли прожить, пути, которые не были выбраны."
+    },
+    {
+      "en_us": "A silver moon hangs impossibly large in the sky, casting everything in ethereal blue light. You walk through fields of luminescent flowers that bloom and close with your every step. The air hums with ancient melodies, and you feel as though you could dance forever in this moonlit garden.",
+      "ru_ru": "Серебряная луна висит в небе невозможного размера, отливая всё эфирным голубым светом. Вы идёте сквозь поля светящихся цветов, которые расцветают и закрываются с каждым вашим шагом. Воздух гудит древними мелодиями, и вы чувствуете, будто могли танцевать вечно в этом лунном саду."
+    },
+    {
+      "en_us": "Shadows lengthen around you as the sun sets behind distant mountains. But these shadows do not flee from the light—they dance. They swirl and weave patterns of impossible geometry, telling stories in a language you almost remember. As darkness falls, you realize the shadows were trying to guide you somewhere important.",
+      "ru_ru": "Тени удлиняются вокруг вас по мере того, как солнце садится за далёкие горы. Но эти тени не убегают от света — они танцуют. Они кружатся и плетут узоры невозможной геометрии, рассказывая истории на языке, который вы почти помните. Когда наступает темнота, вы понимаете: тени пытались провести вас к чему-то важному."
+    },
+    {
+      "en_us": "The forest breathes with you. Each inhalation causes leaves to rustle in unison, each exhalation brings a gentle breeze through branches. Ancient oaks whisper secrets in a tongue you somehow understand: they remember when the world was young, and they have been waiting for you to return.",
+      "ru_ru": "Лес дышит вместе с вами. Каждый вдох вызывает шелест листвы в унисон, каждое выдыхание приносит лёгкий бриз сквозь ветви. Древние дубы шепчут секреты на языке, который вы как-то понимаете: они помнят, когда мир был молод, и ждали вашего возвращения."
+    },
+    {
+      "en_us": "Rivers of crystal-clear water flow through valleys of emerald green. You follow one upstream, past waterfalls that sing with voices of those who came before. The water tastes of memory and hope, and you drink deeply, feeling centuries of wisdom flow through you.",
+      "ru_ru": "Реки кристально чистой воды текут сквозь изумрудные долины. Вы поднимаетесь вверх по одной, мимо водопадов, которые поют голосами тех, кто был до вас. Вода на вкус памяти и надежды, и вы пьёте глубоко, чувствуя, как века мудрости текут через вас."
+    },
+    {
+      "en_us": "Thunder cracks across a sky purple with approaching storm. You stand on a cliff edge, arms spread wide, welcoming the lightning. Each bolt illuminates ancient runes carved into the stone beneath your feet. They tell of a power that sleeps within, waiting only for you to awaken it.",
+      "ru_ru": "Гром трескается по фиолетовому небу надвигающейся бури. Вы стоите на краю утёса, раскинув руки, приветствуя молнию. Каждый удар освещает древние руны, высеченные в камне под ногами. Они говорят о силе, которая спит внутри, ожидая только, пока вы её пробудите."
+    },
+    {
+      "en_us": "Ocean waves crash against rocky shores, their rhythm matching the beating of your heart. You wade into the water, which feels warm despite the cold night air. Beneath the surface, something vast and ancient stirs—something that has watched over humanity since the first dawn.",
+      "ru_ru": "Океанские волны разбиваются о скалистые берега, их ритм совпадает с биением вашего сердца. Вы заходите в воду, которая тёплая, несмотря на холодный ночной воздух. Под поверхностью что-то огромное и древнее шевелится — нечто, что наблюдало за человечеством с первого рассвета."
+    },
+    {
+      "en_us": "Autumn leaves fall like golden snow, covering everything in a blanket of amber and crimson. You catch one leaf, and as it touches your palm, you see memories of springs long past. The cycle continues, and you understand your place in the eternal turning of seasons.",
+      "ru_ru": "Осенняя листва падает как золотой снег, покрывая всё одеялом янтарного и багрового. Вы ловите один лист, и когда он касается вашей ладони, вы видите воспоминания о веснах далёкого прошлого. Цикл продолжается, и вы понимаете своё место в вечном вращении сезонов."
+    },
+    {
+      "en_us": "In a midnight garden, flowers bloom that should not exist by day. Their petals glow with inner light, and their fragrance tells stories of other worlds. You walk among them, and each bloom shows you a glimpse of a future that might yet come to pass.",
+      "ru_ru": "В полночном саду расцветают цветы, которых не должно быть днём. Их лепестки светятся внутренним светом, а их аромат рассказывает истории о других мирах. Вы гуляете среди них, и каждый цветок показывает вам glimpse будущего, которое ещё может сбыться."
+    },
+    {
+      "en_us": "Winter winds howl outside, but within you burns a fire that no cold can extinguish. You sit in a great hall, surrounded by ancestors whose faces are familiar though you've never met them. They pass you a cup of something warm, and you drink, feeling their strength flow into you.",
+      "ru_ru": "Зимний ветер воет снаружи, но внутри вас горит огонь, который никакой холод не может погасить. Вы сидите в большом зале, окружённый предками, чьи лица знакомы, хотя вы никогда их не встречали. Они передают вам чашу чего-то тёплого, и вы пьёте, чувствуя, как их сила течёт в вас."
+    },
+    {
+      "en_us": "The summer sun beats down on endless golden fields. You walk among wheat that sways like an ocean in the breeze. At the field's center stands an ancient tree, its branches heavy with fruit that glows with inner light. You reach for one, and it whispers your name.",
+      "ru_ru": "Летнее солнце палят на бесконечные золотые поля. Вы идёте среди пшеницы, которая колышется как океан на ветру. В центре поля стоит древнее дерево, его ветви тяжелеют от плодов, светящихся внутренним светом. Вы тянетесь к одному, и оно шепчет ваше имя."
+    },
+    {
+      "en_us": "Rain taps a steady rhythm on the thatched roof above. You lie in a warm bed, listening as the storm passes. Outside, something approaches through the rain—something ancient and benevolent. It pauses at your door, leaves a gift wrapped in leaves, and vanishes into the night.",
+      "ru_ru": "Дождь отбивает устойчивый ритм по соломенной крыше над вами. Вы лежите в тёплой кровати, слушая, как проходит буря. Снаружи что-то приближается сквозь дождь — нечто древнее и благожелательное. Оно останавливается у вашей двери, оставляет подарок, завёрнутый в листья, и исчезает в ночь."
+    },
+    {
+      "en_us": "Mist wraps around ancient oaks like the memory of a thousand mornings. You walk through it, guided by voices that seem to come from everywhere and nowhere. They speak of trials you have faced and victories yet to come. The mist parts to reveal a clearing where a single white flower blooms.",
+      "ru_ru": "Туман окутывает древние дубы как память тысячи утренних рассветов. Вы идёте сквозь него, ведомый голосами, которые кажутся исходящими отовсюду и ниоткуда. Они говорят о испытаниях, которые вы прошли, и победах, которые ещё придут. Туман расходится, открывая поляну, где расцветает один белый цветок."
+    },
+    {
+      "en_us": "Birds sing at the first light of dawn, their melodies weaving together into a song you recognize from a dream you can't quite remember. You follow their flight to a mountaintop where the first rays of sunrise paint the sky in colors that have no names.",
+      "ru_ru": "Птицы поют при первом свете рассвета, их мелодии сплетаются в песню, которую вы узнаёте из сна, который не можете вспомнить. Вы следуете за их полётом к вершине горы, где первые лучи восхода красят небо в цвета, у которых нет имён."
+    },
+    {
+      "en_us": "Butterflies dance above meadow flowers in patterns too complex to be random. Each carries a message on its wings, fragments of a story being told across generations. You stand still, and one lands on your hand, revealing a single word written in light: REMEMBER.",
+      "ru_ru": "Бабочки танцуют над луговыми цветами в узорах слишком сложных, чтобы быть случайными. Каждая несёт сообщение на своих крыльях, фрагменты истории, рассказываемой на протяжении поколений. Вы стоите неподвижно, и одна садится на вашу руку, открывая одно слово, написанное светом: ПОМНИ."
+    },
+    {
+      "en_us": "Fields glow golden at sunset's embrace, each blade of grass tipped with amber light. You walk through them as they stretch endlessly toward a horizon that seems to draw nearer with each step. Somewhere beyond, someone waits for you—someone who has waited a very long time.",
+      "ru_ru": "Поля золотятся при объятиях заката, каждая травинка окрашена янтарным светом. Вы идёте сквозь них, пока они тянутся бесконечно к горизонту, который кажется приближающимся с каждым шагом. Где-то за ним кто-то ждёт вас — кто-то, кто ждал очень долго."
+    },
+    {
+      "en_us": "Deep within the mountains, lava boils in chambers that have never seen the sun. You descend into the heat, feeling it purify something within you. The molten rock whispers of creation and destruction, of the fire that forged the world and the fire that sleeps in your own blood.",
+      "ru_ru": "Глубоко в горах лава кипит в камерах, которые никогда не видели солнце. Вы спускаетесь в жар, чувствуя, как это очищает что-то внутри вас. Расплавленная порода шепчет о творении и разрушении, об огне, который выковал мир, и об огне, который спит в вашей собственной крови."
+    },
+    {
+      "en_us": "Waterfalls plunge into an abyss below, their roar drowning out all other sounds. You stand at the edge, looking down into darkness that seems to have no bottom. Then you hear it—a voice from the depths, calling your name with the tenderness of a mother and the authority of a king.",
+      "ru_ru": "Водопады падают в бездну внизу, их рёв заглушает все остальные звуки. Вы стоите на краю, глядя вниз во тьму, у которой, кажется, нет дна. Затем вы слышите это — голос из глубин, зовущий вас по имени с нежностью матери и авторитетом короля."
+    },
+    {
+      "en_us": "A perfect lake mirrors the stars above, so still that you cannot tell where sky ends and water begins. You step onto its surface, and it holds you like solid glass. Beneath your feet, constellations swirl, and you realize this is no ordinary lake—it is a window into the cosmos itself.",
+      "ru_ru": "Идеальное озеро отражает звёзды наверху, настолько спокойное, что вы не можете сказать, где небо заканчивается, а вода начинается. Вы ступаете на его поверхность, и она держит вас как твёрдое стекло. Под ногами вращаются созвездия, и вы понимаете, что это не обычное озеро — это окно в саму космос."
+    },
+    {
+      "en_us": "The desert sleeps beneath a silver moon, its dunes painted in shades of blue and silver. You walk across sands that have witnessed the rise and fall of civilizations. Somewhere beneath them, ancient cities slumber, waiting for the right hands to uncover their secrets.",
+      "ru_ru": "Пустыня спит под серебряной луной, её дюны окрашены в оттенки синего и серебра. Вы идёте сквозь пески, которые видели взлёт и падение цивилизаций. Где-то под ними древние города спят, ожидая правильных рук, чтобы раскрыть их секреты."
+    },
+    {
+      "en_us": "Jungles whisper ancient secrets in a language of rustling leaves and distant animal calls. You push through vines thick as ropes, guided by a feeling that something important lies ahead. The trees part to reveal ruins older than memory, where something still stirs.",
+      "ru_ru": "Джунгли шепчут древние секреты на языке шелестящих листьев и отдалённых звериных криков. Вы пробираетесь сквозь лианы, толстые как канаты, ведомые чувством, что впереди что-то важное. Деревья расходятся, открывая руины старше памяти, где что-то всё ещё шевелится."
+    },
+    {
+      "en_us": "Northern lights illuminate the frozen sky in curtains of green and violet. You stand on ice that has existed for millennia, feeling the cold seep into your bones. But the lights warm something within you, showing visions of people who lived here long ago, dancing beneath these same lights.",
+      "ru_ru": "Полярное сияние освещает замёрзшее небо занавесами зелёного и фиолетового. Вы стоите на льду, существовавшем тысячелетия, чувствуя, как холод проникает в ваши кости. Но сияние согревает что-то внутри, показывая видения людей, живших здесь давно, танцующих под тем же самым сиянием."
+    },
+    {
+      "en_us": "Icebergs drift across a cold ocean, each one a mountain of frozen time. You sail among them on a ship that needs no crew. The icebergs whisper of ages locked within, of worlds that existed before the ice came. One cracks open, revealing something that should not be there.",
+      "ru_ru": "Айсберги дрейфуют в холодном океане, каждый из них — гора замёрзшего времени. Вы плывёте среди них на корабле, который не нуждается в команде. Айсберги шепчут о веках, заключённых внутри, о мирах, существовавших до прихода льда. Один трескается, открывая то, чего там не должно быть."
+    },
+    {
+      "en_us": "Coral reefs shimmer in the depths, their colors more vibrant than anything on land. You dive deeper than should be possible, breathing water as if it were air. Fish with human eyes watch you pass, and you understand they are the guardians of something ancient and sacred.",
+      "ru_ru": "Коралловые рифы мерцают в глубине, их цвета ярче, чем что-либо на суше. Вы ныряете глубже, чем должно быть возможно, дыша водой как воздухом. Рыбы с человеческими глазами наблюдают, как вы проходите, и вы понимаете, что они стражи чего-то древнего и священного."
+    },
+    {
+      "en_us": "Volcanic ash falls from the heavens like gray snow, coating everything in silence. You walk through a landscape that has been erased and reborn. The ash whispers of destruction and renewal, of how the old must fall for the new to rise. Somewhere beneath it all, something begins to grow.",
+      "ru_ru": "Вулканический пепел падает с небес как серый снег, покрывая всё тишиной. Вы идёте сквозь ландшафт, который был стёрт и возрождён. Пепел шепчет о разрушении и обновлении, о том, как старое должно упасть, чтобы новое могло подняться. Где-то под всем этим что-то начинает расти."
+    },
+    {
+      "en_us": "Geysers erupt with steam and fury, their plumes reaching toward the sky like the breath of the earth itself. You stand among them, feeling the raw power of the planet beneath your feet. Each eruption carries a message from deep below, warnings and promises in a language older than words.",
+      "ru_ru": "Гейзеры извергаются паром и яростью, их столбы достигают неба как дыхание самой земли. Вы стоите среди них, чувствуя сырую силу планеты под ногами. Каждое извержение несёт сообщение из глубины, предупреждения и обещания на языке старее слов."
+    },
+    {
+      "en_us": "Canyons carve through the ancient land like wounds in the earth's flesh. You walk along their rim, looking down into shadows that seem to move of their own accord. The canyon walls bear petroglyphs that tell stories you somehow understand—stories of when the sky was closer to the ground.",
+      "ru_ru": "Каньоны разрезают древнюю землю как раны в плоти земли. Вы идёте вдоль их края, глядя вниз в тени, которые, кажется, движутся сами по себе. Стены каньона несут петроглифы, которые рассказывают истории, которые вы как-то понимаете — истории о том, когда небо было ближе к земле."
+    },
+    {
+      "en_us": "Steppes stretch to the edge of the world, grasslands so vast that no horizon can contain them. You run across them, your feet barely touching the ground. Herds of creatures that no longer exist gallop beside you, and for a moment, you are part of their eternal migration.",
+      "ru_ru": "Степи простираются до края мира, пастбища настолько обширные, что никакой горизонт не может их вместить. Вы бежите сквозь них, ваши ноги едва касаются земли. Стада существ, которые больше не существуют, галопируют рядом с вами, и на мгновение вы часть их вечной миграции."
+    },
+    {
+      "en_us": "Ancient ruins hold forgotten mysteries in their crumbling stones. You walk through halls where kings once walked, touching walls that remember the touch of hands long turned to dust. The air is thick with ghosts of the past, and they have something to tell you if you listen.",
+      "ru_ru": "Древние руины хранят забытые тайны в своих крошащихся камнях. Вы идёте по залам, где когда-то ходили короли, касаясь стен, которые помнят прикосновения рук, давно превратившихся в пыль. Воздух густ призраками прошлого, и у них есть что сказать вам, если вы слушаете."
+    },
+    {
+      "en_us": "Dragons soar through stormy skies, their scales catching lightning like jewels. You watch from a mountain peak as they dance through clouds that burn with unnatural colors. One turns its head toward you, and in its eyes you see intelligence that predates humanity itself.",
+      "ru_ru": "Драконы парят в штормовом небе, их чешуи ловит молнию как драгоценности. Вы наблюдаете с вершины горы, как они танцуют сквозь облака, горящие неестественными цветами. Один поворачивает голову к вам, и в его глазах вы видите интеллект, который предшествует самому человечеству."
+    },
+    {
+      "en_us": "Gold gleams in dark caverns deep, illuminating veins that run through the rock like blood through living flesh. You follow them deeper, knowing that the true treasure lies not in the metal itself but in what it represents—the earth's offering to those brave enough to seek it.",
+      "ru_ru": "Золото блестит в тёмных пещерах в глубине, освещая жилы, которые проходят сквозь породу как кровь сквозь живую плоть. Вы следуете за ними глубже, зная, что настоящее сокровище лежит не в самом металле, а в том, что он представляет — предложение земли тем, кто достаточно смел, чтобы искать его."
+    },
+    {
+      "en_us": "Distant lands call to your heart across barriers of space and time. You see them in flashes—cities of crystal, forests of metal, oceans of fire. Each vision carries a pull stronger than gravity, and you understand that somewhere, in some world, you are already there.",
+      "ru_ru": "Далёкие земли зовут ваше сердце сквозь барьеры пространства и времени. Вы видите их во вспышках — города из кристалла, леса из металла, океаны огня. Каждое видение несёт тягу сильнее гравитации, и вы понимаете, что где-то, в каком-то мире, вы уже там."
+    },
+    {
+      "en_us": "Maps lead to treasures untold, but the greatest treasure is the journey itself. You unroll an ancient parchment that shows not just places but moments in time. Each location marks a choice you could make, a path you could take. The map is blank beyond the present—the future is yours to draw.",
+      "ru_ru": "Карты ведут к несметным сокровищам, но величайшее сокровище — это само путешествие. Вы разворачиваете древний пергамент, который показывает не только места, но и моменты во времени. Каждое место отмечает выбор, который вы могли сделать, путь, который вы могли выбрать. Карта пуста за пределами настоящего — будущее ваше, чтобы нарисовать."
+    },
+    {
+      "en_us": "Swords flash in the heat of battle, their ringing a song of violence and honor. You stand amidst warriors who fight for causes they have long forgotten, their faces masks of determination and fear. You raise your own weapon, and suddenly you remember why you fight—not for victory, but for what comes after.",
+      "ru_ru": "Мечи сверкают в жаре битвы, их звон — песня насилия и чести. Вы стоите среди воинов, которые сражаются за причины, давно забытые, их лица — маски решимости и страха. Вы поднимаете своё оружие, и вдруг помните, почему сражаетесь — не ради победы, а ради того, что придёт после."
+    },
+    {
+      "en_us": "Shields protect against mighty blows, each dent and scratch telling a story of survival. You hold a shield that has defended generations of warriors, feeling their strength flow into your arm. The metal whispers of battles yet to come, and you realize you are not alone in this fight.",
+      "ru_ru": "Щиты защищают от могучих ударов, каждая вмятина и царапина рассказывают историю выживания. Вы держите щит, который защищал поколения воинов, чувствуя их силу текучь в вашу руку. Металл шепчет о битвах, которые ещё предстоят, и вы понимаете, что не одиноки в этом бою."
+    },
+    {
+      "en_us": "Castles rise above misty valleys like mountains carved by human hands. You walk their halls, seeing ghosts of feasts and battles that once filled them. The castle remembers everyone who has ever walked its corridors, and it has been waiting for you to return.",
+      "ru_ru": "Замки высочат над туманными долинами как горы, вырезанные человеческими руками. Вы идёте по их залам, видя призраки пиршеств и битв, которые когда-то наполняли их. Замок помнит каждого, кто когда-либо ходил по его коридорам, и ждал вашего возвращения."
+    },
+    {
+      "en_us": "Towers reach toward the clouds above, their spires disappearing into the mists that surround them. You climb endless stairs, each step bringing you closer to something that has called to you since birth. At the top, you find not treasure but a window into another world.",
+      "ru_ru": "Башни достигают к облакам наверху, их шпили исчезают в туманах, которые их окружают. Вы поднимаетесь по бесконечным лестницам, каждый шаг приближая вас к чему-то, что звало вам с рождения. Наверху вы находите не сокровище, а окно в другой мир."
+    },
+    {
+      "en_us": "Tunnels delve deep into the earth, their walls lined with crystals that glow in colors that have no names. You follow them down, past chambers that hold machines of impossible complexity. The deeper you go, the more you understand: this is not a mine—it is a world beneath the world.",
+      "ru_ru": "Туннели углубляются в землю, их стены выложены кристаллами, которые светятся цветами, у которых нет имён. Вы следуете за ними вниз, мимо камер, которые содержат машины невозможной сложности. Чем глубже вы идёте, тем больше понимаете: это не шахта — это мир под миром."
+    },
+    {
+      "en_us": "Bridges span across vast chasms, their arches defying gravity and logic. You cross one that seems to be made of light itself, looking down into darkness where shapes move in impossible patterns. On the other side, something waits—something that has been expecting you for an eternity.",
+      "ru_ru": "Мосты перекидываются через огромные пропасти, их арки бросают вызов гравитации и логике. Вы переходите один, который, кажется, сделан из самого света, глядя вниз во тьму, где формы движутся в невозможных узорах. На другой стороне что-то ждёт — что-то, что ожидало вас вечность."
+    },
+    {
+      "en_us": "Ships sail across stormy seas, their crews singing songs that keep the monsters at bay. You stand at the helm, feeling the power of the ocean beneath you. The storm is not your enemy but your guide, its winds pushing you toward a destination that exists on no map.",
+      "ru_ru": "Корабли плывут штормовыми морями, их команды поют песни, которые держат монстров на расстоянии. Вы стоите на штурвале, чувствуя мощь океана под собой. Шторм — не ваш враг, а ваш проводник, его ветры толкают вас к месту назначения, которого нет ни на одной карте."
+    },
+    {
+      "en_us": "Horses gallop across open plains, their hooves thundering like the heartbeats of the earth itself. You ride with them, feeling the wind tear at your clothes but not your spirit. The herd is endless, and together you run toward a sunrise that never seems to arrive.",
+      "ru_ru": "Лошади галопируют по открытым равнинам, их копыта гремят как сердцебиения самой земли. Вы скачете с ними, чувствуя, как ветер рвёт вашу одежду, но не ваш дух. Стадо бесконечно, и вместе вы бежите к рассвету, который, кажется, никогда не наступит."
+    },
+    {
+      "en_us": "Bows are drawn for the coming hunt, arrows nocked with the precision of masters who have practiced for lifetimes. You stand among hunters who track prey that no ordinary eye can see. The arrow you hold glows with inner light, and you know its target is not an animal but something far more dangerous.",
+      "ru_ru": "Луки натянуты для предстоящей охоты, стрелы взведены с точностью мастеров, практиковавших всю жизнь. Вы стоите среди охотников, которые выслеживают добычу, которую не видит обычный глаз. Стрела, которую вы держите, светится внутренним светом, и вы знаете, что её цель — не животное, а нечто гораздо более опасное."
+    },
+    {
+      "en_us": "Arrows fly straight toward their mark, each one guided by a will greater than the archer's. You watch them arc through the sky, trailing light like falling stars. They strike targets that exist in moments of time rather than places in space, and each hit changes something fundamental about the world.",
+      "ru_ru": "Стрелы летят прямо к цели, каждая направлена волей большей, чем у лучника. Вы наблюдаете, как они описывают дуги по небу, оставляя за собой свет как падающие звёзды. Они поражают цели, которые существуют в моменты времени, а не в местах в пространстве, и каждое попадание меняет что-то фундаментальное в мире."
+    },
+    {
+      "en_us": "Magic vibrates in the very air, making the hair on your arms stand up with its intensity. You walk through a landscape where reality is thin, seeing things that exist and don't exist simultaneously. The magic recognizes you, and it offers you a choice: become part of it, or master it.",
+      "ru_ru": "Магия вибрирует в самом воздухе, заставляя волосы на ваших руках встать от её интенсивности. Вы идёте сквозь ландшафт, где реальность тонка, видя вещи, которые существуют и не существуют одновременно. Магия узнаёт вас и предлагает выбор: стать частью её или овладеть ею."
+    },
+    {
+      "en_us": "Spells crack the earth with power, their effects rippling outward like stones thrown into still ponds. You watch mages work cantrips that reshape mountains and redirect rivers. They turn to you as one, and you realize you are not watching—you are learning, and the lesson is almost complete.",
+      "ru_ru": "Заклятия раскалывают землю силой, их эффекты распространяются наружу как камни, брошенные в тихие пруды. Вы наблюдаете, как маги работают заклинаниями, которые перестраивают горы и перенаправляют реки. Они поворачиваются к вам как один, и вы понимаете, что не наблюдаете — вы учитесь, и урок почти завершён."
+    },
+    {
+      "en_us": "Artifacts hold ancient might within, objects that have absorbed power over centuries of use. You hold one—a simple amulet that feels heavier than it should. It shows you visions of its previous owners, each one adding their strength to yours. The artifact is not just a tool; it is a legacy.",
+      "ru_ru": "Артефакты хранят древнюю мощь внутри, объекты, которые впитали силу за века использования. Вы держите один — простой амулет, который кажется тяжелее, чем должен. Он показывает вам видения его прежних владельцев, каждый добавляя свою силу к вашей. Артефакт — не просто инструмент; это наследие."
+    },
+    {
+      "en_us": "Amulets protect your spirit's soul from forces that seek to claim it. You wear a dozen, each glowing with different colors. They whisper warnings of dangers to come and promises of protection if you stay true to your path. The amulets are not gifts—they are responsibilities.",
+      "ru_ru": "Амулеты защищают душу вашего духа от сил, которые стремятся забрать её. Вы носите дюжину, каждый светится разным цветом. Они шепчут предупреждения об опасностях, которые придут, и обещания защиты, если вы останетесь верны своему пути. Амулеты — не дары; это ответственность."
+    },
+    {
+      "en_us": "Scrolls tell tales of ages past, written in languages that no living tongue can speak. You read them not with your eyes but with your mind, the words flowing directly into your understanding. The scrolls are not history—they are instructions for something you must do.",
+      "ru_ru": "Свитки рассказывают истории прошлых эпох, написанные на языках, которые ни один живой язык не может говорить. Вы читаете их не глазами, а разумом, слова текут прямо в ваше понимание. Свитки — не история; это инструкции для того, что вы должны сделать."
+    },
+    {
+      "en_us": "Keys unlock doors to hidden realms, each one shaped like a different emotion. You hold a key of fear, one of hope, one of determination. Each door you open shows you a different version of yourself, living a different life. The real key is not metal but the courage to choose which door to enter.",
+      "ru_ru": "Ключи открывают двери в скрытые миры, каждый оформлен как другая эмоция. Вы держите ключ страха, один надежды, один решимости. Каждая дверь, которую вы открываете, показывает вам другую версию себя, живущую другую жизнь. Настоящий ключ — не металл, а смелость выбрать, какую дверь войти."
+    },
+    {
+      "en_us": "Chests conceal secrets of old, their locks designed not to keep thieves out but to test the worthiness of those who seek their contents. You open one and find not gold but memories—memories that belong to you from lives you've forgotten. The chest was waiting for you to remember.",
+      "ru_ru": "Сундуки скрывают секреты старого, их замки спроектированы не для того, чтобы удерживать воров, а для проверки достоинства тех, кто ищет их содержимое. Вы открываете один и находите не золото, а воспоминания — воспоминания, принадлежащие вам из жизней, которые вы забыли. Сундук ждал, пока вы вспомните."
+    },
+    {
+      "en_us": "Coins jingle in pockets deep, their weight a reminder of value accumulated over time. But these coins bear faces you don't recognize, and when you look closely, you see that they are not currency at all but tokens of moments—each one represents a choice made, a path taken, a life lived.",
+      "ru_ru": "Монеты звенят в глубоких карманах, их вес — напоминание о ценности, накопленной с течением времени. Но эти монеты несут лица, которых вы не узнаёте, и когда вы присматриваетесь, видите, что это не валюта вообще, а жетоны моментов — каждый представляет сделанный выбор, пройденный путь, прожитую жизнь."
+    },
+    {
+      "en_us": "Stones glow in the darkness below, illuminating caverns that have never seen sunlight. You follow their light deeper, past chambers filled with crystals that sing when touched. The stones are guiding you somewhere important, to something that has been waiting for you since the world was young.",
+      "ru_ru": "Камни светятся во тьме внизу, освещая пещеры, которые никогда не видели солнечный свет. Вы следуете за их светом глубже, мимо камер, заполненных кристаллами, которые поют, когда их касаются. Камни ведут вас куда-то важное, к чему-то, что ждало вас с тех пор, как мир был молод."
+    },
+    {
+      "en_us": "Torches light the path ahead, their flames burning with colors that depend on who holds them. You carry one that burns blue, showing you truths that others cannot see. The path leads not to a destination but to a moment—a single instant that will change everything.",
+      "ru_ru": "Факелы освещают путь вперёд, их пламя горит цветами, которые зависят от того, кто их держит. Вы несёте один, который горит синим, показывая вам истины, которые другие не могут видеть. Путь ведёт не к месту назначения, а к моменту — единому мгновению, которое изменит всё."
+    },
+    {
+      "en_us": "Trails lead to adventures untold, each one marked by signs that only you can read. You stand at a crossroads where a thousand paths diverge. Each trail whispers of different futures, different dangers, different rewards. The choice is not which path to take, but which version of yourself you wish to become.",
+      "ru_ru": "Тропы ведут к бесчисленным приключениям, каждая отмечена знаками, которые можете прочитать только вы. Вы стоите на перекрёстке, где расходятся тысяча путей. Каждая тропа шепчет о разных будущих, разных опасностях, разных наградах. Выбор не в том, какой путь взять, а в том, какой версией себя вы хотите стать."
+    },
+    {
+      "en_us": "Maps show the way forward, but the map you hold changes as you walk. New paths appear, old ones vanish, and sometimes the map shows not where you are but where you need to be. You realize it is not a map of geography but of destiny, and you are finally on the right path.",
+      "ru_ru": "Карты показывают путь вперёд, но карта, которую вы держите, меняется по мере того, как вы идёте. Появляются новые пути, старые исчезают, а иногда карта показывает не то, где вы, а то, где вам нужно быть. Вы понимаете, что это не карта географии, а карта судьбы, и вы наконец на правильном пути."
+    },
+    {
+      "en_us": "Compasses point to the north true, but your needle spins wildly, seeking something other than magnetic north. It points toward moments in time, toward people you've loved and lost, toward choices that changed everything. The compass is not lost—it is searching for your true north.",
+      "ru_ru": "Компасы указывают на истинный север, но ваша стрелка вращается дико, ища что-то иное, кроме магнитного севера. Она указывает на моменты во времени, на людей, которых вы любили и потеряли, на выборы, которые изменили всё. Компас не потерян — он ищет ваш истинный север."
+    },
+    {
+      "en_us": "Stairs climb upward to heights unknown, each step taking you farther from the earth and closer to something you cannot name. You climb without tiring, passing landings where versions of yourself wait, each one holding a different object. At the top, you find not heaven but a mirror.",
+      "ru_ru": "Лестницы поднимаются к неизвестным высотам, каждый шаг уводя вас дальше от земли и ближе к чему-то, что вы не можете назвать. Вы поднимаетесь без усталости, проходя площадки, где ждут версии вас, каждая держит другой объект. Наверху вы находите не небо, а зеркало."
+    },
+    {
+      "en_us": "Lifts descend into depths below, their cables groaning under weights they were not meant to carry. You ride one down, past levels that should not exist. At the bottom, you find not a basement but another world, inverted and impossible, where everything you know is turned upside down.",
+      "ru_ru": "Лифты спускаются в глубины вниз, их тросы стонут под весами, которые они не должны нести. Вы спускаетесь на одном вниз, мимо уровней, которые не должны существовать. Внизу вы находите не подвал, а другой мир, перевёрнутый и невозможный, где всё, что вы знаете, перевёрнуто вверх тормашками."
+    },
+    {
+      "en_us": "Mechanisms turn with gears of old, their complexity beyond anything human hands could have built. You watch them operate, understanding that they are not machines but ecosystems, each gear a living thing. The mechanism is the world itself, and you have just found its heart.",
+      "ru_ru": "Механизмы вращаются старыми шестернями, их сложность превосходит всё, что человеческие руки могли построить. Вы наблюдаете, как они работают, понимая, что это не машины, а экосистемы, каждая шестерня — живое существо. Механизм — это сам мир, и вы только что нашли его сердце."
+    },
+    {
+      "en_us": "Clocks tick away the passing time, but the clock you face has no hands—just a single eye that blinks with each passing moment. You watch it count down not to midnight but to something else, something important. The clock is not measuring time but opportunity, and yours is running out.",
+      "ru_ru": "Часы отсчитывают проходящее время, но часы, перед которыми вы стоите, не имеют стрелок — только один глаз, который моргает с каждым проходящим моментом. Вы наблюдаете, как он отсчитывает не до полуночи, а до чего-то другого, чего-то важного. Часы измеряют не время, а возможность, и ваша истекает."
+    },
+    {
+      "en_us": "Portals transport between worlds vast, each one a doorway to a reality where different rules apply. You stand before one that pulses with light the color of a sunset you remember from childhood. You know that once you step through, there is no coming back—the question is whether you're ready to leave.",
+      "ru_ru": "Порталы переносят между огромными мирами, каждый — дверь в реальность, где применяются другие правила. Вы стоите перед одним, который пульсирует светом цвета заката, который вы помните из детства. Вы знаете, что как только вы пройдёте, возврата нет — вопрос в том, готовы ли вы уйти."
+    },
+    {
+      "en_us": "Ancient voices whisper in the dark, speaking your name as if they've known you forever. You cannot see them, but you feel their presence like a weight on your soul. They are not ghosts but something older—witnesses who have watched since the beginning, waiting for this moment.",
+      "ru_ru": "Древние голоса шепчут во тьме, произнося ваше имя так, будто знают вас вечно. Вы не можете их видеть, но чувствуете их присутствие как вес на вашей душе. Они не призраки, а нечто старшее — свидетели, которые наблюдали с начала, ожидая этого момента."
+    },
+    {
+      "en_us": "Ancestors watch from the stars above, their faces forming in constellations that have no names in any earthly language. You look up and recognize them—grandparents, great-grandparents, faces from portraits you've seen. They are not gone, merely distant, and they have something important to tell you.",
+      "ru_ru": "Предки наблюдают со звёзд наверху, их лица формируются в созвездиях, у которых нет имён ни на одном земном языке. Вы смотрите вверх и узнаёте их — дедушек, прадедушек, лица с портретов, которые вы видели. Они не ушли, лишь далеки, и у них есть что-то важное сказать вам."
+    },
+    {
+      "en_us": "Magic flows through veins of old, carrying the power of those who came before. You feel it moving through you like a second heartbeat, ancient and strong. The magic is not a gift but a responsibility, and it has chosen you for a purpose that will become clear in time.",
+      "ru_ru": "Магия течёт сквозь древние вены, неся силу тех, кто был до вас. Вы чувствуете, как она движется сквозь вас как второе сердцебиение, древнее и сильное. Магия — не дар, а ответственность, и она выбрала вас для цели, которая станет ясной со временем."
+    },
+    {
+      "en_us": "Prophecies unfold before your eyes, showing futures that branch like trees from the present moment. You watch yourself make different choices, live different lives, die different deaths. Each path is possible, and the prophecy is not a prediction but a menu of destinies you can choose from.",
+      "ru_ru": "Пророчества разворачиваются перед вашими глазами, показывая будущие, которые разветвляются как деревья из настоящего момента. Вы наблюдаете, как делаете другой выбор, живёте другую жизнь, умираете другую смерть. Каждый путь возможен, и пророчество — не предсказание, а меню судеб, из которых вы можете выбрать."
+    },
+    {
+      "en_us": "Oracles see futures yet to come, but the oracle you face has no eyes—only a single mirror that reflects not your face but your possibilities. In the mirror, you see versions of yourself you've never met, living lives you've never lived. The oracle is not showing you the future but your potential.",
+      "ru_ru": "Оракулы видят будущее, которое ещё придёт, но оракул, перед которым вы стоите, не имеет глаз — только одно зеркало, которое отражает не ваше лицо, а ваши возможности. В зеркале вы видите версии себя, которых никогда не встречали, живёте жизни, которых никогда не жили. Оракул показывает не будущее, а ваш потенциал."
+    },
+    {
+      "en_us": "Priests perform rites of ancient days, their chants echoing through temples that have stood for millennia. You watch them, understanding that their rituals are not worship but maintenance—keeping something asleep, something that should never wake. The priests look at you, and you realize they've been waiting for you to take over.",
+      "ru_ru": "Жрецы исполняют обряды древних дней, их песнопения эхом разносятся по храмам, стоящим тысячелетия. Вы наблюдаете за ними, понимая, что их ритуалы — не поклонение, а обслуживание — удержание чего-то спящим, чего-то, что никогда не должно проснуться. Жрецы смотрят на вас, и вы понимаете, что ждали, пока вы их смените."
+    },
+    {
+      "en_us": "Alchemists mix potions of power, their bubbling cauldrons filled with liquids that glow with inner light. You watch them transform base materials into something extraordinary, understanding that true alchemy is not about changing lead into gold but about changing the self into something greater.",
+      "ru_ru": "Алхимики смешивают зелья силы, их бурлящие котлы наполнены жидкостями, светящимися внутренним светом. Вы наблюдаете, как они превращают базовые материалы во что-то экстраординарное, понимая, что истинная алхимия — не о превращении свинца в золото, а о превращении себя во что-то большее."
+    },
+    {
+      "en_us": "Sorcerers bind spirits to their will, their spells weaving invisible chains around entities that exist between worlds. You watch one work, feeling the wrongness of what they do. The spirits are not being controlled—they are being asked for help, and they have been waiting for someone to ask the right way.",
+      "ru_ru": "Чародеи связывают духов своей волей, их заклинания плетут невидимые цепи вокруг сущностей, существующих между мирами. Вы наблюдаете, как один работает, чувствуя неправильность того, что они делают. Духи не контролируются — их просят о помощи, и они ждали кого-то, кто попросит правильным способом."
+    },
+    {
+      "en_us": "Witches brew in cauldrons deep, their recipes passed down through generations of women who understood the earth's secrets. You watch them add ingredients that have no names in any language you know. The witch looks at you and offers a taste—not a potion but a memory that changes how you see everything.",
+      "ru_ru": "Ведьмы варят в глубоких котлах, их рецепты передаются из поколения в поколение женщин, которые понимали секреты земли. Вы наблюдаете, как они добавляют ингредиенты, у которых нет имён ни на одном языке, который вы знаете. Ведьма смотрит на вас и предлагает попробовать — не зелье, а воспоминание, которое меняет то, как вы видите всё."
+    },
+    {
+      "en_us": "Necromancers raise the fallen dead, but the one you watch does not raise bodies—she raises memories. The dead speak through her, telling stories that history has forgotten. She turns to you, and you realize the dead have been waiting for someone who can truly listen.",
+      "ru_ru": "Некроманты поднимают павших мертвецов, но тот, за кем вы наблюдаете, не поднимает тела — она поднимает воспоминания. Мёртвые говорят через неё, рассказывая истории, которые история забыла. Она поворачивается к вам, и вы понимаете, что мёртвые ждали кого-то, кто действительно может слушать."
+    },
+    {
+      "en_us": "Paladins fight against the darkness, their armor shining with light that burns the shadows. You stand beside them in a battle that has no end, fighting enemies that have no faces. The paladin next to you falls, and as you take up their sword, you understand the darkness is not outside but within.",
+      "ru_ru": "Паладины сражаются против тьмы, их броня светится светом, который обжигает тени. Вы стоите рядом с ними в битве, у которой нет конца, сражаясь с врагами, у которых нет лиц. Паладин рядом с вами падает, и когда вы поднимаете его меч, вы понимаете, что тьма не снаружи, а внутри."
+    },
+    {
+      "en_us": "Monks meditate in temples old, their stillness so complete that time seems to stop around them. You sit among them, learning to quiet the noise in your mind. In the silence, you hear something—a voice that has been trying to reach you for years, telling you something important.",
+      "ru_ru": "Монахи медитируют в старых храмах, их неподвижность настолько полная, что время, кажется, останавливается вокруг них. Вы сидите среди них, учась успокаивать шум в своём разуме. В тишине вы слышите что-то — голос, который пытался достичь вас годами, говоря вам что-то важное."
+    },
+    {
+      "en_us": "Druids speak with nature's voice, understanding the language of leaves and wind and water. You listen with them, and for the first time, the world makes sense. The trees are not just trees—they are memories. The wind is not just wind—it is a message. And the message is for you.",
+      "ru_ru": "Друиды говорят голосом природы, понимая язык листьев и ветра и воды. Вы слушаете с ними, и впервые мир имеет смысл. Деревья — не просто деревья — это воспоминания. Ветер — не просто ветер — это сообщение. И сообщение для вас."
+    },
+    {
+      "en_us": "Bards sing legends of heroes past, their songs bringing the dead back to life for the duration of a verse. You listen to a ballad about someone who sounds familiar—someone who made choices you've made, faced battles you've faced. The bard looks at you, and you realize the song is about you.",
+      "ru_ru": "Барды поют легенды героев прошлого, их песни возвращают мёртвых к жизни на время одного стиха. Вы слушаете балладу о ком-то, кто звучит знакомо — о ком-то, кто делал выборы, которые вы делали, сталкивался с битвами, с которыми вы столкнулись. Бард смотрит на вас, и вы понимаете, что песня о вас."
+    },
+    {
+      "en_us": "Rangers watch over forest lands, their eyes seeing things others miss. You walk with one through woods that seem normal until you learn how to look. The ranger points out tracks that are not animal, shadows that move against the wind, and you understand the forest is not empty—it is merely hiding something.",
+      "ru_ru": "Рейнджеры наблюдают за лесными землями, их глаза видят то, что другие упускают. Вы идёте с одним сквозь леса, которые кажутся нормальными, пока не научитесь смотреть. Рейнджер указывает на следы, которые не от животных, тени, которые движутся против ветра, и вы понимаете, что лес не пуст — он лишь скрывает что-то."
+    },
+    {
+      "en_us": "Barbarians forge weapons of war, their hammers striking with the rhythm of a heart that has never known fear. You watch them work, understanding that their craft is not about violence but about channeling something primal—the raw force of survival that exists in all living things.",
+      "ru_ru": "Варвары куют оружие войны, их молоты бьют с ритмом сердца, которое никогда не знало страха. Вы наблюдаете за их работой, понимая, что их ремесло — не о насилии, а о канализации чего-то первобытного — сырой силы выживания, существующей во всех живых существах."
+    },
+    {
+      "en_us": "Bardic songs echo through halls, their melodies carrying on winds that should not exist indoors. You follow the music to a chamber where a single bard plays an instrument that has no strings. The song is not entertainment but a key, and it is unlocking something within you.",
+      "ru_ru": "Бардические песни эхом разносятся по залам, их мелодии несутся на ветрах, которых не должно быть в помещении. Вы следуете за музыкой в камеру, где один бард играет на инструменте, у которого нет струн. Песня — не развлечение, а ключ, и он открывает что-то внутри вас."
+    },
+    {
+      "en_us": "Magical orbs glow with inner light, each one containing a captured moment in time. You hold one and see a memory that is not yours—a child playing in a field that no longer exists. The orbs are not magic but technology from a world that forgot itself, and they've been waiting for you to find them.",
+      "ru_ru": "Магические сферы светятся внутренним светом, каждая содержит захваченный момент во времени. Вы держите одну и видите воспоминание, которое не ваше — ребёнок, играющий в поле, которого больше не существует. Сферы — не магия, а технология из мира, который забыл себя, и они ждали, пока вы их найдёте."
+    },
+    {
+      "en_us": "Energy vibrates all around, making the air shimmer with colors that have no names. You walk through it, feeling it respond to your presence—intensifying when you're calm, calming when you're afraid. The energy is not random—it is intelligent, and it has been trying to communicate with you since you were born.",
+      "ru_ru": "Энергия вибрирует повсюду, заставляя воздух мерцать цветами, у которых нет имён. Вы идёте сквозь неё, чувствуя, как она реагирует на ваше присутствие — усиливаясь, когда вы спокойны, успокаиваясь, когда вы боитесь. Энергия не случайна — она разумна, и пыталась общаться с вами с тех пор, как вы родились."
+    },
+    {
+      "en_us": "Aura surrounds your being whole, a light that others cannot see but that illuminates everything you touch. You watch as flowers bloom in your footsteps, as shadows retreat from your presence. The aura is not a gift but a responsibility, and it marks you as someone chosen for something important.",
+      "ru_ru": "Аура окружает ваше целое существо, свет, который другие не видят, но который освещает всё, к чему вы прикасаетесь. Вы наблюдаете, как цветы расцветают следами ваших шагов, как тени отступают от вашего присутствия. Аура — не дар, а ответственность, и она отмечает вас как того, кто выбран для чего-то важного."
+    },
+    {
+      "en_us": "Chakra opens to the sky above, and suddenly you understand the connection between all things. You feel the joy of a child across the ocean, the grief of an elder in a distant land. The opening is not enlightenment but empathy, and it changes how you see every living thing.",
+      "ru_ru": "Чакра открывается к небу наверху, и вдруг вы понимаете связь между всеми вещами. Вы чувствуете радость ребёнка через океан, горе старика в далёкой стране. Открытие — не просветление, а эмпатия, и это меняет то, как вы видите каждое живое существо."
+    },
+    {
+      "en_us": "Zen peace fills your mind at last, the noise of thoughts finally falling silent. In the emptiness, you find not nothing but everything—all the answers you've been seeking, all the peace you've been chasing. The silence is not an end but a beginning, and you are ready for what comes next.",
+      "ru_ru": "Дзенский покой наполняет ваш разум наконец, шум мыслей наконец стихает. В пустоте вы находите не ничто, а всё — все ответы, которые вы искали, весь мир, который вы гнались за. Тишина — не конец, а начало, и вы готовы к тому, что будет дальше."
+    },
+    {
+      "en_us": "Yoga balances body and soul, each pose a bridge between the physical and the spiritual. You move through positions that feel ancient and familiar, understanding that this practice is not exercise but prayer—movement as worship, breath as conversation with something vast.",
+      "ru_ru": "Йога балансирует тело и душу, каждая поза — мост между физическим и духовным. Вы двигаетесь сквозь позиции, которые чувствуются древними и знакомыми, понимая, что эта практика — не упражнение, а молитва — движение как поклонение, дыхание как разговор с чем-то огромным."
+    },
+    {
+      "en_us": "Meditation calms the racing thoughts, but as your mind quiets, something else wakes up. You feel a presence that has been dormant, sleeping in the depths of your consciousness. It is not a demon or a god but something else—something that has been waiting for you to find it.",
+      "ru_ru": "Медитация успокаивает суетливые мысли, но по мере того, как ваш разум успокаивается, просыпается что-то ещё. Вы чувствуете присутствие, которое было дремлющим, спящим в глубинах вашего сознания. Это не демон и не бог, а нечто иное — нечто, что ждало, пока вы его найдёте."
+    },
+    {
+      "en_us": "Mantras chanted in the night become more than words—they become keys that unlock doors in your mind. You chant one phrase over and over, and suddenly you understand its true meaning, a meaning that changes how you see everything. The mantra is not a prayer but a password.",
+      "ru_ru": "Мантры поются ночью, становясь больше, чем слова — они становятся ключами, которые открывают двери в вашем разуме. Вы поёте одну фразу снова и снова, и вдруг понимаете её истинное значение, значение, которое меняет то, как вы видите всё. Мантра — не молитва, а пароль."
+    },
+    {
+      "en_us": "Prayers rise to the heavens above, but the prayer you speak is not directed at any god you know. It is a plea to something older, something that existed before the first prayer was ever spoken. The heavens do not answer with words but with a feeling—of being heard, of being understood, of being loved.",
+      "ru_ru": "Молитвы поднимаются к небесам наверху, но молитва, которую вы произносите, не направлена ни на какого бога, которого вы знаете. Это мольба к чему-то старшему, к тому, что существовало до того, как была произнесена первая молитва. Небеса не отвечают словами, но чувством — того, что вас слышат, понимают, любят."
+    },
+    {
+      "en_us": "Blessings descend from on high, falling like rain but glowing with light that warms without burning. You stand in it, feeling it soak into your skin, into your bones, into your soul. The blessing is not from any deity but from the universe itself, acknowledging that you are finally on the right path.",
+      "ru_ru": "Благословения сходят свыше, падая как дождь, но светясь светом, который согревает без ожога. Вы стоите в этом, чувствуя, как это впитывается в вашу кожу, в ваши кости, в вашу душу. Благословение — не от какого-либо божества, а от самой вселенной, признающей, что вы наконец на правильном пути."
+    },
+    {
+      "en_us": "Curses lifted from your soul, one by one, as if invisible hands are removing weights you've carried for so long you forgot they were there. Each curse lifts with a sound like breaking glass, and with each one, you remember when and why you accepted it. The curses were not inflicted but chosen, and now you choose differently.",
+      "ru_ru": "Проклятия сняты с вашей души, одно за другим, как будто невидимые руки снимают грузы, которые вы несли так долго, что забыли, что они там. Каждое проклятие снимается со звуком, как разбивающееся стекло, и с каждым вы помните, когда и почему вы приняли его. Проклятия не были наложены, а выбраны, и теперь вы выбираете иначе."
+    },
+    {
+      "en_us": "Enchantments released at last, their bindings dissolving like smoke in wind. You watch as objects around you transform, revealing their true forms. The enchantments were not magic but constraints, limiting what things—and people—could truly be. Now everything is free to be itself.",
+      "ru_ru": "Чары освобождены наконец, их узы растворяются как дым на ветру. Вы наблюдаете, как объекты вокруг вас трансформируются, открывая свои истинные формы. Чары были не магией, а ограничениями, ограничивающими то, чем вещи — и люди — могли быть по-настоящему. Теперь всё свободно быть собой."
+    },
+    {
+      "en_us": "Charms broken by will of mind, their power dissipating as you realize they only worked because you believed they did. The world responds to expectation, and by changing what you expect, you change what is possible. The charms were never real—only your belief in them was.",
+      "ru_ru": "Талисманы сломаны силой разума, их сила рассеивается по мере того, как вы понимаете, что они работали только потому, что вы верили, что они работают. Мир реагирует на ожидание, и изменяя то, что вы ожидаете, вы меняете то, что возможно. Талисманы никогда не были реальными — реальной была только ваша вера в них."
+    },
+    {
+      "en_us": "Potions drunk from crystal vials, their contents glowing with colors that shouldn't exist. You drink and feel not healing but transformation—parts of you changing, evolving, becoming something new. The potion is not medicine but metamorphosis, and you are finally becoming who you're meant to be.",
+      "ru_ru": "Зелья выпиты из хрустальных флаконов, их содержимое светится цветами, которых не должно быть. Вы пьёте и чувствуете не исцеление, а трансформацию — части вас меняются, эволюционируют, становясь чем-то новым. Зелье — не лекарство, а метаморфоза, и вы наконец становитесь тем, кем должны быть."
+    },
+    {
+      "en_us": "Elixirs consumed with careful hand, each drop a calculated risk. You measure them precisely, understanding that too much will destroy and too little will do nothing. The elixir is not a solution but a test—of your judgment, your restraint, your wisdom. You have never been more ready.",
+      "ru_ru": "Эликсиры потреблены осторожной рукой, каждая капля — рассчитанный риск. Вы измеряете их точно, понимая, что слишком много уничтожит, а слишком мало ничего не сделает. Эликсир — не решение, а испытание — вашего суждения, вашей сдержанности, вашей мудрости. Вы никогда не были более готовы."
+    },
+    {
+      "en_us": "Herbs gathered from forest wild, each one chosen for a specific purpose that only you understand. You mix them with the confidence of someone who has done this a thousand times in dreams. The herbs are not random—they are calling to you, and you've finally learned to listen.",
+      "ru_ru": "Травы собраны из дикой природы, каждая выбрана для конкретной цели, которую понимаете только вы. Вы смешиваете их с уверенностью того, кто делал это тысячу раз во снах. Травы не случайны — они зовут вас, и вы наконец научились слушать."
+    },
+    {
+      "en_us": "Crystals charged with lunar light, their facets capturing the moon's glow and amplifying it. You arrange them in patterns that feel ancient, understanding that this is not superstition but technology—a way of focusing energy that your ancestors understood but that the modern world has forgotten.",
+      "ru_ru": "Кристаллы заряжены лунным светом, их грани захватывают сияние луны и усиливают его. Вы расставляете их в узорах, которые чувствуются древними, понимая, что это не суеверие, а технология — способ фокусировки энергии, который понимали ваши предки, но который современный мир забыл."
+    },
+    {
+      "en_us": "Amulets blessed by priests old, their surfaces worn smooth by countless hands over countless years. You hold one and feel the weight of all those prayers, all that faith. The amulet is not just an object but a connection to everyone who has ever hoped for something better.",
+      "ru_ru": "Амулеты освящены старыми жрецами, их поверхности отполированы бесчисленными руками на протяжении бесчисленных лет. Вы держите один и чувствуете вес всех тех молитв, всей той веры. Амулет — не просто объект, а связь со всеми, кто когда-либо надеялся на что-то лучшее."
+    },
+    {
+      "en_us": "Talismans activated with words, each phrase a key that unlocks specific powers. You speak them aloud, feeling the air respond, feeling reality bend. The words are not magic but passwords to systems that have always existed, systems that you are finally learning to access.",
+      "ru_ru": "Талисманы активированы словами, каждая фраза — ключ, который разблокирует конкретные силы. Вы произносите их вслух, чувствуя, как воздух реагирует, чувствуя, как реальность гнётся. Слова — не магия, а пароли к системам, которые всегда существовали, системам, которые вы наконец учитесь использовать."
+    },
+    {
+      "en_us": "Runes carved in stone of old, their meanings forgotten but their power undiminished. You trace them with your finger, understanding that they are not writing but instructions—diagrams for manipulating reality itself. The runes are not ancient but timeless, and they have been waiting for someone who can read them.",
+      "ru_ru": "Руны высечены в старом камне, их значения забыты, но их сила не уменьшилась. Вы обводите их пальцем, понимая, что это не письмо, а инструкции — диаграммы для манипуляции самой реальностью. Руны — не древние, а вне времени, и они ждали кого-то, кто может их прочитать."
+    },
+    {
+      "en_us": "Cold eyes watch you from the darkness, and as they blink, you realize they are not animal eyes but something far worse. They are the eyes of something that has been watching humanity since before humans existed, studying, learning, waiting. And now it knows you're aware of it.",
+      "ru_ru": "Холодные глаза наблюдают за вами из темноты, и когда они моргают, вы понимаете, что это не глаза животных, а нечто гораздо худшее. Это глаза чего-то, что наблюдало за человечеством с тех пор, как люди не существовали, изучая, учась, ожидая. И теперь оно знает, что вы Aware о нём."
+    },
+    {
+      "en_us": "The earth starts to crumble beneath your feet, but as you look down, you see that the ground is not dirt but bone—countless layers of skeletons, all of them human. The earth is not crumbling; it is waking up, and what lies beneath is hungry.",
+      "ru_ru": "Земля начинает крошиться под вашими ногами, но когда вы смотрите вниз, видите, что земля — не грязь, а кость — бесчисленные слои скелетов, все они человеческие. Земля не крошится; она просыпается, и то, что внизу, голодно."
+    },
+    {
+      "en_us": "You hear the rattle of bones just behind you, but when you turn, there is nothing there. The sound follows you wherever you go, getting closer, louder. Then you understand—it's not behind you. It's inside you. Your bones are rattling because something is moving within them.",
+      "ru_ru": "Вы слышите скрежет костей прямо за спиной, но когда поворачиваетесь, там ничего нет. Звук следует за вами, куда бы вы ни пошли, приближаясь, становясь громче. Затем вы понимаете — это не сзади. Это внутри вас. Ваши кости гремят, потому что что-то движется внутри них."
+    },
+    {
+      "en_us": "Shadows stretch toward you with grasping fingers, detaching themselves from the objects that cast them. They are not shadows but living things that have always existed in the dark, and now they are reaching for the light. They are not trying to hurt you—they are trying to become you.",
+      "ru_ru": "Тени тянутся к вам с хватательными пальцами, отделяясь от объектов, которые их отбрасывают. Они не тени, а живые существа, которые всегда существовали во тьме, и теперь они тянутся к свету. Они не пытаются навредить вам — они пытаются стать вами."
+    },
+    {
+      "en_us": "Whispers speak your name in tongues forgotten, and as you listen, you realize they are not speaking to you but about you. They are discussing you like an experiment, a specimen, something to be studied. And then they notice you can hear them, and the whispers stop. Something is coming to investigate.",
+      "ru_ru": "Шёпот произносит ваше имя на забытых языках, и когда вы слушаете, понимаете, что они говорят не с вами, а о вас. Они обсуждают вас как эксперимент, образец, нечто, что нужно изучить. И затем они замечают, что вы можете их слышать, и шёпот прекращается. Что-то приходит расследовать."
+    },
+    {
+      "en_us": "The darkness breathes with a life of its own, and as you watch, it takes shape—not a monster but a mirror. In its reflection, you see yourself, but something is wrong. The reflection is smiling, and you are not. It reaches through the glass, and you feel cold fingers wrap around your throat.",
+      "ru_ru": "Тьма дышит собственной жизнью, и по мере того, как вы наблюдаете, она принимает форму — не монстра, а зеркало. В его отражении вы видите себя, но что-то не так. Отражение улыбается, а вы нет. Оно протягивает сквозь стекло, и вы чувствуете холодные пальцы, обхватывающие вашу горло."
+    },
+    {
+      "en_us": "Something ancient stirs beneath the frozen lake, and the ice begins to crack. You run, but the cracking follows you, spreading like a disease. Whatever is down there is not breaking out—it is breaking in, and it's coming for you specifically. It knows your name.",
+      "ru_ru": "Что-то древнее шевелится под замёрзшим озером, и лёд начинает трескаться. Вы бежите, но треск следует за вами, распространяясь как болезнь. Что-то там внизу не вырывается — оно врывается, и оно идёт специально за вас. Оно знает ваше имя."
+    },
+    {
+      "en_us": "Teeth gnash in the void where light cannot reach, and you realize with horror that the void is not empty. It is a mouth, and you are inside it. The teeth are closing, and there is no escape. You try to scream, but you have no mouth—you are just food for something that has existed before time.",
+      "ru_ru": "Зубы скрипят в пустоте, куда не достигает свет, и вы понимаете с ужасом, что пустота не пуста. Это рот, и вы внутри него. Зубы закрываются, и нет побега. Вы пытаетесь закричать, но у вас нет рта — вы просто еда для чего-то, что существовало до времени."
+    },
+    {
+      "en_us": "Your feet sink into endless black waters, and as you struggle, you feel things brushing against your legs—hands, countless hands, all reaching upward. They are not trying to pull you down but to pull themselves up. They have been down there for a very long time, and they are very hungry.",
+      "ru_ru": "Ваши ноги погружаются в бесконечные чёрные воды, и по мере того, как вы боретесь, чувствуете, что что-то касается ваших ног — руки, бесчисленные руки, все тянущиеся вверх. Они не пытаются утянуть вас вниз, а подтянуть себя вверх. Они были там очень долго, и они очень голодны."
+    },
+    {
+      "en_us": "Claws scrape against stone in the depths below, the sound echoing through chambers that should not exist. You realize you are not in a cave but inside something—something vast and ancient that has been dormant until now. The claws are inside you, and they are starting to dig their way out.",
+      "ru_ru": "Когти царапают камень в глубинах внизу, звук эхом разносится по камерам, которые не должны существовать. Вы понимаете, что не в пещере, а внутри чего-то — чего-то огромного и древнего, что было дремлющим до сих пор. Когти внутри вас, и они начинают вырываться."
+    },
+    {
+      "en_us": "A chill seeps into your bones from within, and you understand with dawning horror that it is not cold but death—your body is dying, but your mind is still awake. You watch your skin gray, your muscles atrophy, but you cannot move, cannot speak, cannot scream. You are trapped in a corpse that is still your home.",
+      "ru_ru": "Холод просачивается в ваши кости изнутри, и вы понимаете с зарождающимся ужасом, что это не холод, а смерть — ваше тело умирает, но ваш разум всё ещё бодрствует. Вы наблюдаете, как ваша кожа сереет, мышцы атрофируются, но вы не можете двигаться, не можете говорить, не можете кричать. Вы заперты в трупе, который всё ещё ваш дом."
+    },
+    {
+      "en_us": "Faces appear in the darkness, then vanish, but they are not random faces. They are all your face—different versions, from different times, wearing different expressions. They are not appearing and disappearing; they are passing through you, and you are the doorway they are all trying to escape through.",
+      "ru_ru": "Лица появляются во тьме, затем исчезают, но они не случайные лица. Это всё ваше лицо — разные версии, из разного времени, носящие разные выражения. Они не появляются и исчезают; они проходят сквозь вас, и вы — дверь, сквозь которую все они пытаются сбежать."
+    },
+    {
+      "en_us": "The ground opens to swallow you whole, but as you fall, you see that the earth is not dirt but flesh. You are falling into a wound in something impossibly large, something that is alive and in pain. And then you see the others—countless people, all falling, all screaming. You are not the first. You are merely the latest.",
+      "ru_ru": "Земля открывается, чтобы поглотить вас целиком, но по мере того, как вы падаете, видите, что земля — не грязь, а плоть. Вы падаете в рану на чём-то невозможном большем, чём-то, что живо и в боли. И затем вы видите других — бесчисленных людей, всех падающих, всех кричащих. Вы не первый. Вы лишь последний."
+    },
+    {
+      "en_us": "Walls close in, pressing against your chest, but they are not walls of stone or wood. They are made of time—every regret, every mistake, every moment you wish you could change. They have been waiting for this moment, to finally crush you under the weight of everything you've done wrong.",
+      "ru_ru": "Стены смыкаются, давя на вашу грудь, но это не стены из камня или дерева. Они сделаны из времени — каждого сожаления, каждой ошибки, каждого момента, который вы хотели бы изменить. Они ждали этого момента, чтобы наконец раздавить вас под весом всего, что вы сделали неправильно."
+    },
+    {
+      "en_us": "Screams echo from a place you cannot find, but as you listen, you realize they are not coming from outside but from within. They are your screams, from futures you haven't lived yet, from deaths you haven't died yet. Your future self is trying to warn you: do not take the path you are on. It ends here.",
+      "ru_ru": "Крики эхом раздаются из места, которое вы не можете найти, но по мере того, как вы слушаете, понимаете, что они не приходят снаружи, а изнутри. Это ваши крики, из будущих, которых вы ещё не прожили, из смертей, которых вы ещё не умерли. Ваше будущее я пытается предупредить вас: не идите по пути, на котором вы находитесь. Он заканчивается здесь."
+    },
+    {
+      "en_us": "Your reflection reaches out from the mirror, and as its fingers touch yours, you feel your own hand go numb. The reflection is not copying you—it is replacing you, piece by piece. It has been waiting for this moment for your entire life, and now it is finally taking what belongs to it: your life.",
+      "ru_ru": "Ваше отражение тянется из зеркала, и когда его пальцы касаются ваших, вы чувствуете, как ваша собственная рука немеет. Отражение не копирует вас — оно заменяет вас, кусок за куском. Оно ждало этого момента всю вашу жизнь, и теперь оно наконец забирает то, что принадлежит ему: вашу жизнь."
+    },
+    {
+      "en_us": "Chains rattle in the dungeon of your mind, and you realize with horror that you are not the prisoner but the jailer. The chains are not binding you—they are binding something else, something you've been keeping locked away since you were a child. And now the locks are breaking, and whatever is down there is coming out.",
+      "ru_ru": "Цепи гремят в подземельях вашего разума, и вы понимаете с ужасом, что вы не пленник, а тюремщик. Цепи не связывают вас — они связывают что-то другое, что вы держали запертым с детства. И теперь замки ломаются, и что бы там ни было, выходит."
+    },
+    {
+      "en_us": "Fog obscures the path, and something follows, but when you turn to face it, you see that it is not a monster but a child—a child who looks exactly like you did at age seven. The child is smiling, but its teeth are too sharp, too many. It has been following you your whole life, waiting for you to finally notice it.",
+      "ru_ru": "Туман скрывает путь, и что-то следует, но когда вы поворачиваетесь, чтобы столкнуться с этим, видите, что это не монстр, а ребёнок — ребёнок, который выглядит точно так же, как вы в возрасте семи лет. Ребёнок улыбается, но его зубы слишком остры, слишком много. Он следовал за вами всю вашу жизнь, ожидая, пока вы наконец заметите его."
+    },
+    {
+      "en_us": "The silence screams louder than any voice, and as you listen, you realize it is not silence at all. It is the sound of countless things whispering at once, so quietly that they blend into nothingness. And they are all saying the same thing: we see you, we know you, we are coming for you.",
+      "ru_ru": "Тишина кричит громче любого голоса, и по мере того, как вы слушаете, понимаете, что это не тишина вообще. Это звук бесчисленных вещей, шепчущих одновременно, так тихо, что они смешиваются в ничто. И все они говорят одно и то же: мы видим вас, мы знаем вас, мы идём за вами."
+    },
+    {
+      "en_us": "Rotting hands burst from the soil below, grasping at your ankles. You pull free, but more come, hundreds, thousands, all of them wearing rings you recognize—rings worn by your ancestors, by people you loved. They are not attacking; they are trying to pull you down to join them, and they will not stop until you are one of them.",
+      "ru_ru": "Гниющие руки вырываются из почвы внизу, хватаясь за ваши лодыжки. Вы высвобождаетесь, но приходят ещё, сотни, тысячи, все носящие кольца, которые вы узнаёте — кольца, носимые вашими предками, людьми, которых вы любили. Они не атакуют; они пытаются утянуть вас вниз, чтобы присоединиться к ним, и они не остановятся, пока вы не станете одним из них."
+    },
+    {
+      "en_us": "A presence stands at the foot of your bed, but as your eyes adjust to the darkness, you see that it is not standing at all—it is attached to the ceiling, hanging upside down, its face inches from yours. It has been watching you sleep every night of your life, and tonight, it has finally decided to introduce itself.",
+      "ru_ru": "Присутствие стоит у изголовья вашей постели, но по мере того, как ваши глаза адаптируются к темноте, видите, что оно не стоит вообще — оно прикреплено к потолку, свисая вверх тормашками, его лицо в дюймах от вашего. Оно наблюдало за вашим сном каждую ночь вашей жизни, и сегодня оно решило наконец представить себя."
+    },
+    {
+      "en_us": "Eyes open in the walls, watching, waiting, but they are not in the walls—they are the walls. The room is made of eyes, all of them focused on you, all of them blinking in unison. You try to leave, but the door is also an eye, and it is closing.",
+      "ru_ru": "Глаза открываются в стенах, наблюдая, ожидая, но они не в стенах — они стены. Комната сделана из глаз, все они сфокусированы на вас, все моргают в унисон. Вы пытаетесь уйти, но дверь тоже глаз, и он закрывается."
+    },
+    {
+      "en_us": "The abyss stares back into your soul, and you realize with dawning horror that it is not looking at you but through you—at something standing behind you, something that has been there your entire life, something that has been using you as a shield to hide from the abyss. And now the shield has moved.",
+      "ru_ru": "Бездна уставилась в вашу душу, и вы понимаете с зарождающимся ужасом, что она смотрит не на вас, а сквозь вас — на что-то стоящее за вами, что было там всю вашу жизнь, что использовало вас как щит, чтобы спрятаться от бездны. И теперь щит сдвинулся."
+    },
+    {
+      "en_us": "Mouths form in the darkness, hungry and wet, and as they multiply, you understand that the darkness is not empty. It is a single entity, vast beyond comprehension, and it has been slowly eating reality for eons. You are standing on the last remaining piece of existence, and it has just noticed you.",
+      "ru_ru": "Рты формируются во тьме, голодные и мокрые, и по мере того, как они умножаются, понимаете, что тьма не пуста. Это единое существо, огромное за пределами понимания, и оно медленно поедало реальность на протяжении эонов. Вы стоите на последнем оставшемся куске существования, и оно только что заметило вас."
+    },
+    {
+      "en_us": "Time slows as dread crawls up your spine, and you see that the dread is not an emotion but a physical thing—a parasite that has been feeding on you since birth. It has grown large, and now it is ready to emerge. You feel it moving under your skin, and you know there is nothing you can do to stop it.",
+      "ru_ru": "Время замедляется, пока ужас ползёт по вашему позвоночнику, и видите, что ужас — не эмоция, а физическая вещь — паразит, который питался вами с рождения. Он вырос большим, и теперь готов появиться. Вы чувствуете, как он движется под вашей кожей, и знаете, что ничего не можете сделать, чтобы остановить это."
+    },
+    {
+      "en_us": "Shapes move at the corners of your vision, but when you turn to look, they don't disappear—they multiply. The room is filling with them, shadows that have no source, entities that have no form. They are not attacking; they are merely observing, and the realization is worse than any attack: you are the experiment.",
+      "ru_ru": "Формы движутся в углах вашего зрения, но когда вы поворачиваетесь, чтобы посмотреть, они не исчезают — они умножаются. Комната наполняется ими, тени без источника, сущности без формы. Они не атакуют; они просто наблюдают, и осознание хуже любой атаки: вы — эксперимент."
+    },
+    {
+      "en_us": "The cold bites deeper than any winter, and you realize it is not cold but the absence of something that should be there. Your soul is leaking out through wounds you cannot see, and with each drop that falls, you feel yourself becoming less human, less real, less you. Something else is filling the space.",
+      "ru_ru": "Холод кусает глубже любой зимы, и понимаете, что это не холод, а отсутствие чего-то, что должно быть там. Ваша душа вытекает сквозь раны, которые вы не видите, и с каждой каплей, которая падает, чувствуете, как становитесь менее человеческим, менее реальным, менее вами. Что-то ещё заполняет пространство."
+    },
+    {
+      "en_us": "A howl pierces the silence of the night, but it is not a wolf or any animal you know. It is a howl of recognition, of joy, of finding prey that has been hunted for a very long time. The howl is answered by others, and you understand that you are surrounded, that the hunt has finally ended, and that you are the quarry.",
+      "ru_ru": "Вой пронзает тишину ночи, но это не волк или любое животное, которое вы знаете. Это вой признания, радости, нахождения добычи, на которую охотились очень долго. Вой отвечает другими, и понимаете, что вы окружены, охота наконец закончилась, и вы — добыча."
+    },
+    {
+      "en_us": "You run, but the path stretches endlessly, and as you look back, you see that the world is disappearing behind you. The path is not leading anywhere—it is eating everything, and you are running to keep ahead of it. But the path is getting faster, and you are getting tired, and eventually you will have to stop.",
+      "ru_ru": "Вы бежите, но путь тянется бесконечно, и когда оглядываетесь назад, видите, что мир исчезает за вами. Путь не ведёт никуда — он пожирает всё, и вы бежите, чтобы удержаться впереди него. Но путь становится быстрее, а вы устали, и в конечном итоге вам придётся остановиться."
+    },
+    {
+      "en_us": "The moon turns red, bleeding into the sky, and as you watch, you see that the blood is not coming from the moon but from something behind it—something vast, something wounded, something dying. And as it dies, it is reaching out, trying to find something to hold onto, and it has chosen you.",
+      "ru_ru": "Луна краснеет, кровоточа в небо, и по мере того, как вы смотрите, видите, что кровь исходит не от луны, а от чего-то за ней — чего-то огромного, чего-то раненого, чего-то умирающего. И по мере того, как оно умирает, оно протягивается, пытаясь найти что-то, за что можно держаться, и оно выбрало вас."
+    },
+    {
+      "en_us": "Roots entangle your limbs, pulling you down, but as you struggle, you see that the roots are not from any plant. They are fingers—countless fingers, all attached to hands buried in the earth. The ground is not soil but a mass of bodies, all reaching upward, all trying to pull you down to join them in their eternal embrace.",
+      "ru_ru": "Корни оплетают ваши конечности, утягивая вниз, но по мере того, как вы боретесь, видите, что корни не от какого-либо растения. Это пальцы — бесчисленные пальцы, все прикреплённые к рукам, погребённым в земле. Земля — не почва, а масса тел, все тянущиеся вверх, все пытающиеся утянуть вас вниз, чтобы присоединиться к ним в их вечных объятиях."
+    },
+    {
+      "en_us": "The stars blink out, one by one, dying, and you realize with horror that they are not dying but being extinguished—something vast is moving through the cosmos, snuffing out light like candles. And it is moving toward your world. You watch the last star fade, and then you see what is coming next.",
+      "ru_ru": "Звёзды гаснут одна за другой, умирая, и понимаете с ужасом, что они не умирают, а гасятся — нечто огромное движется сквозь космос, гася свет как свечи. И оно движется к вашему миру. Вы наблюдаете, как гаснет последняя звезда, и затем видите, что будет дальше."
+    },
+    {
+      "en_us": "Breath steams in air that grows ever colder, but as you exhale, you see that the steam does not dissipate—it forms shapes, faces, words. The air is not empty; it is full of the last breaths of everyone who has ever died here, and they are all trying to tell you the same thing: run.",
+      "ru_ru": "Дыхание парит в воздухе, который становится всё холоднее, но когда выдыхаете, видите, что пар не рассеивается — он формирует фигуры, лица, слова. Воздух не пуст; он полон последних вдохов всех, кто здесь когда-либо умер, и все они пытаются сказать вам одно и то же: бегите."
+    },
+    {
+      "en_us": "A door opens where no door should be, and through it, you see not another room but another version of this room—another you, sleeping in another bed. The other you opens its eyes and screams, and you understand that this is not a door but a wound in reality, and something is coming through.",
+      "ru_ru": "Дверь открывается там, где её не должно быть, и сквозь неё видите не другую комнату, а другую версию этой комнаты — другой вы, спящий в другой кровати. Другой вы открывает глаза и кричит, и понимаете, что это не дверь, а рана в реальности, и что-то проходит сквозь неё."
+    },
+    {
+      "en_us": "Footsteps approach, but no one is there, and then you realize the footsteps are not coming toward you but from you—your own feet are moving without your permission, walking toward something you cannot see. Your body is no longer yours; it has been claimed, and it is taking you somewhere you do not want to go.",
+      "ru_ru": "Шаги приближаются, но никого нет, и затем понимаете, что шаги не приближаются к вам, а от вас — ваши собственные ноги движутся без вашего разрешения, идя к чему-то, что вы не видите. Ваше тело больше не ваше; оно было заявлено, и оно ведёт вас куда-то, куда вы не хотите идти."
+    },
+    {
+      "en_us": "The forest turns its back on you, rejecting, and as you watch, the trees twist themselves into barriers, their branches forming walls of wood and leaf. The forest is not just turning away—it is imprisoning you, and you understand that you have trespassed into something ancient, something that does not forgive.",
+      "ru_ru": "Лес поворачивается к вам спиной, отвергая, и по мере того, как вы смотрите, деревья скручиваются в барьеры, их ветви формируют стены из дерева и листьев. Лес не просто отворачивается — он заключает вас в тюрьму, и понимаете, что вы вторглись во что-то древнее, что-то, что не прощает."
+    },
+    {
+      "en_us": "Worms writhe beneath your skin, unseen, but you can feel them moving, multiplying, feeding. You try to scratch, to dig them out, but there are too many, and they are too deep. They are not parasites but children, and you are their mother, their father, their home, and they are about to be born.",
+      "ru_ru": "Черви извиваются под вашей кожей, невидимые, но можете чувствовать, как они движутся, умножаются, питаются. Вы пытаетесь чесаться, выкопать их, но их слишком много, и они слишком глубоко. Они не паразиты, а дети, и вы их мать, их отец, их дом, и они вот-вот родятся."
+    },
+    {
+      "en_us": "The ocean rises to claim what it lost, and as the water engulfs you, you see that it is not water but memory—countless memories of everyone who has ever drowned here. They flow into you, filling your mind with their final moments, their last thoughts, their dying screams. You are drowning in their deaths.",
+      "ru_ru": "Океан поднимается, чтобы забрать то, что потерял, и по мере того, как вода поглощает вас, видите, что это не вода, а память — бесчисленные воспоминания всех, кто здесь когда-либо утонул. Они текут в вас, наполняя ваш разум их последними моментами, их последними мыслями, их умирающими криками. Вы тонете в их смертях."
+    },
+    {
+      "en_us": "Voices argue in your head, none are yours, and as you listen, you realize they are not arguing with each other but with you. They are the voices of choices you didn't make, paths you didn't take, lives you didn't live, and they are angry. They have been waiting for this moment to confront you, and they will not be silenced.",
+      "ru_ru": "Голоса спорят в вашей голове, ни один не ваш, и по мере того, как вы слушаете, понимаете, что они не спорят друг с другом, а с вами. Это голоса выборов, которых вы не сделали, путей, которых вы не прошли, жизней, которых вы не прожили, и они злы. Они ждали этого момента, чтобы столкнуться с вами, и они не будут умолкать."
+    },
+    {
+      "en_us": "A figure stands in the distance, unmoving, and as you approach, you see that it is not one figure but many—layers of figures, like Russian dolls, each one contained within the next. The outermost layer wears your face, and as you peel it away, you find another face beneath, and another, and another, until you reach the center and find nothing at all.",
+      "ru_ru": "Фигура стоит вдалеке, неподвижная, и по мере того, как вы приближаетесь, видите, что это не одна фигура, а много — слои фигур, как русские куклы, каждая содержится в следующей. Самый внешний слой носит ваше лицо, и по мере того, как вы снимаете его, находите другое лицо под ним, и другое, и другое, пока не достигаете центра и вообще ничего не находите."
+    },
+    {
+      "en_us": "The wind carries whispers of your demise, but as you listen, you realize they are not whispers but predictions—detailed accounts of how you will die, when you will die, who will be there to watch. The wind knows your future, and it is sharing it with everything that can hear. Your death is already scheduled, and everyone has been invited.",
+      "ru_ru": "Ветер несёт шёпот о вашей кончине, но по мере того, как вы слушаете, понимаете, что это не шёпот, а предсказания — подробные описания того, как вы умрёте, когда вы умрёте, кто будет там смотреть. Ветер знает ваше будущее, и делится им со всем, что может слышать. Ваша смерть уже запланирована, и все приглашены."
+    },
+    {
+      "en_us": "Shadows pool beneath your feet, deepening, and as you watch, they begin to rise, forming a shape that has no name in any language. The shadow is not cast by anything—it is casting itself, and it has chosen you as its source. You try to move, but your feet are no longer your own.",
+      "ru_ru": "Тени собираются под ногами, углубляясь, и по мере того, как вы смотрите, они начинают подниматься, формируя форму, у которой нет имени ни на одном языке. Тень не отбрасывается ничем — она отбрасывает себя, и она выбрала вас как свой источник. Вы пытаетесь двигаться, но ваши ноги больше не ваши."
+    },
+    {
+      "en_us": "The dark water closes over your head, but as you sink, you see that the water above is glowing with light—countless people standing on the surface, looking down, watching you drown. They are not trying to save you. They are waiting for you to die so they can see what comes next.",
+      "ru_ru": "Тёмная вода закрывается над вашей головой, но по мере того, как вы тонете, видите, что вода над вами светится светом — бесчисленные люди стоят на поверхности, глядя вниз, наблюдая, как вы тонете. Они не пытаются спасти вас. Они ждут, пока вы умрёте, чтобы увидеть, что будет дальше."
+    },
+    {
+      "en_us": "Something brushes against your leg below, and as you reach down, your hand touches not water but skin—vast, endless skin, covering something that stretches down forever. You are not swimming in an ocean but on the surface of something impossibly large, and it has just noticed you.",
+      "ru_ru": "Что-то касается вашей ноги внизу, и когда тянетесь вниз, ваша рука касается не воды, а кожи — огромной, бесконечной кожи, покрывающей что-то, что тянется вниз навсегда. Вы не плаваете в океане, а на поверхности чего-то невозможного большого, и оно только что заметило вас."
+    },
+    {
+      "en_us": "The sun dies, leaving only endless night, but as the darkness falls, you see that the sun did not die—it was killed. Something vast has extinguished it, and now that thing is turning its attention to the next light source. You look around and realize that you are the only thing left that glows.",
+      "ru_ru": "Солнце умирает, оставляя только бесконечную ночь, но по мере того, как падает темнота, видите, что солнце не умерло — его убили. Что-то огромное погасило его, и теперь эта вещь поворачивает своё внимание к следующему источнику света. Вы оглядываетесь и понимаете, что вы единственное, что всё ещё светится."
+    },
+    {
+      "en_us": "Faces press against glass that isn't there, and as you watch, you see that they are not looking at you but through you—at something standing behind you. You turn to see what they see, and you understand why they are screaming. The thing behind you has your face, but it is smiling.",
+      "ru_ru": "Лица прижимаются к стеклу, которого нет, и по мере того, как вы смотрите, видите, что они смотрят не на вас, а сквозь вас — на что-то стоящее за вами. Вы поворачиваетесь, чтобы увидеть, что они видят, и понимаете, почему они кричат. Вещь за вами имеет ваше лицо, но оно улыбается."
+    },
+    {
+      "en_us": "The void calls your name with familiar voice, and you recognize it—it is your mother's voice, your father's voice, the voice of everyone you have ever loved. But as you move toward it, you realize the voice is not calling you to safety but warning you away. The void is not empty, and what fills it has been waiting for you.",
+      "ru_ru": "Пустота зовёт ваше имя знакомым голосом, и узнаёте его — это голос вашей матери, голос вашего отца, голос всех, кого вы когда-либо любили. Но по мере того, как вы движетесь к нему, понимаете, что голос зовёт вас не к безопасности, а предупреждает уйти. Пустота не пуста, и то, что её заполняет, ждало вас."
+    },
+    {
+      "en_us": "Teeth glitter in smiles too wide, too sharp, and as you look closer, you see that the smiles are not on faces but in the darkness itself—the void is grinning at you, and you understand that it has been smiling your entire life, watching you sleep, watching you wake, waiting for this moment to finally show itself.",
+      "ru_ru": "Зубы блестят в улыбках слишком широких, слишком острых, и когда присматриваетесь, видите, что улыбки не на лицах, а во самой тьме — пустота ухмыляется вам, и понимаете, что она улыбалась всю вашу жизнь, наблюдая за вашим сном, наблюдая за вашим пробуждением, ожидая этого момента, чтобы наконец показать себя."
+    },
+    {
+      "en_us": "The ground remembers where you will fall, and as you walk, you feel it shifting beneath your feet, trying to guide you to that spot. The earth is not just terrain—it is a trap, and it has been waiting for you your entire life. You try to turn back, but the ground is soft now, and you are sinking.",
+      "ru_ru": "Земля помнит, где вы упадёте, и по мере того, как вы идёте, чувствуете, как она сдвигается под ногами, пытаясь направить вас к тому месту. Земля — не просто местность — это ловушка, и она ждала вас всю вашу жизнь. Вы пытаетесь повернуть назад, но земля теперь мягкая, и вы тонете."
+    },
+    {
+      "en_us": "Darkness claims what the light abandoned, and as the shadow consumes you, you realize that the light did not abandon you—it was taken. Something stole the light from your life, piece by piece, moment by moment, and now that the darkness has you, you finally understand what took the light: you did.",
+      "ru_ru": "Тьма забирает то, что свет оставил, и по мере того, как тень поглощает вас, понимаете, что свет не оставил вас — его забрали. Что-то украло свет из вашей жизни, кусок за куском, момент за моментом, и теперь, когда тьма имеет вас, вы наконец понимаете, что забрало свет: вы."
+    }
+  ]
+}

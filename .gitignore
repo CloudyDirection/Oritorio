@@ -1,6 +1,10 @@
 .cache/
 .mixin.out/
 .sable/
+.probe/
+.vscode/
+.idea/
+.github/
 bivrik/
 crash-reports/
 data/
