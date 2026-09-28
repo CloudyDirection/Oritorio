@@ -21,7 +21,7 @@ mipmapLevels:4
 narrator:0
 particles:0
 reducedDebugInfo:false
-renderClouds:"true"
+renderClouds:"false"
 renderDistance:12
 simulationDistance:12
 screenEffectScale:1.0
@@ -77,7 +77,7 @@ rawMouseInput:true
 glDebugVerbosity:1
 skipMultiplayerWarning:false
 hideMatchedNames:true
-joinedFirstServer:false
+joinedFirstServer:true
 hideBundleTutorial:false
 syncChunkWrites:false
 showAutosaveIndicator:true
@@ -129,8 +129,6 @@ key_simulated.keyinfo.rotate_mode:key.keyboard.tab
 key_simulated.keyinfo.scroll_up:key.keyboard.unknown
 key_simulated.keyinfo.scroll_down:key.keyboard.unknown
 key_key.cinematic_respawn.skip_cinematic:key.keyboard.space
-key_key.createbigcannons.pitch_mode:key.keyboard.c
-key_key.createbigcannons.fire_controlled_cannon:key.mouse.left
 key_open_research_screen:key.keyboard.r
 key_open_research_team_screen:key.keyboard.m
 key_keyinfo.copycats.fill_copycat:key.keyboard.left.alt

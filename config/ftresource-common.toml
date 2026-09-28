@@ -1,0 +1,68 @@
+[worldgen]
+	#Whether to generate ore veins.
+	#是否生成矿脉
+	GenerateVeins = true
+
+[vein_chance]
+	#Probability of vein generation.
+	#矿脉生成概率。
+	# Default: 0.35
+	# Range: 0.0 ~ 1.0
+	VeinChance = 0.35
+
+[drop_quantity]
+	#The quantity of items dropped when players manually mine ore veins.
+	#玩家手动挖掘矿脉时的掉落数量。
+	# Default: 1
+	# Range: 1 ~ 64
+	DropQuantity = 1
+
+[disabled]
+	#List of raw ores prohibited from generation.
+	#When a chunk loads, any blocks matching these IDs will be replaced
+	#with the natural stone type of that dimension/layer (stone, deepslate, or netherrack).
+	#Compatible with any mod's ores — just add their block resource locations.
+	#Examples:
+	#  - minecraft:iron_ore
+	#  - mymod:my_ore
+	#Leave the list empty to keep all vanilla and modded ore generation intact.
+	#禁止生成的原矿列表。
+	#当一个区块加载时，所有与这些ID匹配的方块都将被替换为。
+	#具有该维度/层级的天然石材类型（石头、深板岩或下界岩）。
+	#兼容任何模组的原矿，只需添加其原矿ID即可。
+	#示例：
+	#  - minecraft:iron_ore
+	#  - mymod:my_ore
+	#如果列表为空，则保持所有原矿生成。
+	DisabledOres = []
+
+[burner_mining_drill]
+	#Multiplier for all vanilla fuel burn times (supports 2 decimal places).
+	#e.g., 1.0 = vanilla burn time, 2.0 = twice as long, 0.5 = half as long.
+	#燃料燃烧时间倍率（支持两位小数）。
+	#例如：1.0 = 原版燃烧时间，2.0 = 两倍，0.5 = 一半。
+	# Default: 1.0
+	# Range: 0.01 ~ 100.0
+	FuelMultiplier = 1.0
+	#The time required for one mining cycle (unit: tick).
+	#1个采矿周期需要的时间(单位: tick)。
+	# Default: 60
+	# Range: > 1
+	MiningTicks = 60
+
+[electric_mining_drill]
+	#The energy storage upper limit of the electric mining machine (unit: FE).
+	#电力采矿机的储能上限(单位: FE)。
+	# Default: 50000
+	# Range: > 1
+	MaxEnergy = 50000
+	#The energy consumed by each electric mining machine per vein per tick (unit: FE).
+	#电力采矿机每个矿脉每刻消耗的能量(单位: FE)。
+	# Default: 50
+	# Range: > 1
+	EnergyPerVein = 50
+	#The time required for one mining cycle (unit: tick).
+	#1个采矿周期需要的时间(单位: tick)。
+	# Default: 40
+	# Range: > 1
+	MiningTicks = 40

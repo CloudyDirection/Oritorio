@@ -1,4 +1,4 @@
 #Common Settings
 [common]
 	#Disable / enable any items here (disables their recipes)
-	enabledItems = []
+	enabledItems = ["sophisticatedcore:ender_linker|true"]

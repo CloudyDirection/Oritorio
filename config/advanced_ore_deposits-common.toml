@@ -7,7 +7,7 @@ depositSpacingChunks = 8
 #Chance for an eligible cell anchor chunk to actually generate a deposit.
 # Default: 0.35
 # Range: 0.0 ~ 1.0
-depositChance = 0.35
+depositChance = 0.60
 #Lowest remaining mine cycles assigned to deposit edge blocks.
 # Default: 4096
 # Range: > 1
@@ -15,7 +15,7 @@ minRemainingBlocks = 4096
 #Highest remaining mine cycles assigned near the center of large deposits.
 # Default: 32768
 # Range: > 1
-maxRemainingBlocks = 32768
+maxRemainingBlocks = 75768
 #Global lower bound for deposit patch diameter.
 # Default: 16
 # Range: 4 ~ 256
