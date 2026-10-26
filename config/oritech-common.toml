@@ -242,7 +242,7 @@
 			maxEnergyExtraction = 256
 			# Default: 32
 			# Range: > 0
-			energyPerTick = 32
+			energyPerTick = 64
 
 	[machineSettings.laserArmConfig]
 		# Default: 20000
